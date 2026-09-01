@@ -5,7 +5,7 @@ print("\nStudent Information")
 print("Name:", name)
 print("Age:", age)
 print ("Welcome to the online checking device")
-print ("Welcome to my")
+print ("Welcome to my and main")
 
 print ("Display only in my branchgit ")
 
