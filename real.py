@@ -12,3 +12,4 @@ if age >= 18:
     print("Status: Adult")
 else:
     print("Status: Minor")
+    print("done")
